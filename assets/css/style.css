@@ -4515,14 +4515,14 @@ section.footer_area.style_three {
 
 
 section.hero_area.style_four {
-    background: url(../images/home-four/slider_bg.jpg);
+    background: url(https://img.freepik.com/free-photo/young-business-people-discussing-planning-about-results-office-corridor_342744-725.jpg?ga=GA1.1.1802533643.1735888286&semt=ais_hybrid);
     height: 800px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
 section.hero_area.style_four.bannner_two {
-    background: url("../images/home-four/banner2.png");
+    background: url("https://img.freepik.com/free-photo/young-business-people-discussing-planning-about-results-office-corridor_342744-725.jpg?ga=GA1.1.1802533643.1735888286&semt=ais_hybrid");
 }
 section.hero_area.style_four .hero_content {
     margin-top: 0;
@@ -5263,7 +5263,7 @@ section.blog_area.style_four .blog_list .owl-dots {
 =================================================================*/
 
 section.contact_area.style_two {
-    background: url("../images/home-four/contact_bg.png");
+    background: url("https://img.freepik.com/free-vector/abstract-business-professional-background-banner-design-multipurpose_1340-16858.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
